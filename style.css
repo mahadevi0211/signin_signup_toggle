@@ -1,0 +1,243 @@
+
+.outline,.outline1{
+    max-height: 500px;
+    width: 900px;
+    background-color: white;
+    border-width: 1px;
+    border-color: gray;
+    border-style: solid;
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 0 0 7px gray;
+
+}
+.outline1{
+  display: none;
+}
+.form login_form{
+  border-radius: 6px;
+  border-width: 3px;
+  border-color: gray;
+  border-style: solid;
+}
+.top{
+    display: flex;
+    padding-top: 10px;
+    justify-content: end;
+    padding-right: 20px;
+}
+.guf{
+    padding-right: 20px;
+    color: gray;
+
+}
+.button1{
+    color: white;
+    background-color: #3b9b46;
+    border-width: 1px;
+    border-color: gray;
+    border-style: solid;
+    height: 30px;
+    margin-top: 28px;
+    font-size: bolder;
+    width: 300px;
+    border-radius: 6px;
+   
+
+}
+.but1{
+  display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; 
+}
+.login-box {
+    width: 360px;
+    height: 280px;
+    margin: auto;
+    border-radius: 3px;
+    background-color: white;
+  }
+  h2 {
+    text-align: center;
+    padding-top: 15px;
+    color:  rgb(22, 109, 22);
+  }
+  
+  .form-style {
+    width: 300px;
+    margin-left: 20px;
+    position: relative;
+}
+.form-style1{
+  width: 800px;
+  position: relative;
+}
+.container forms  {
+  position: relative;
+  display: flex;
+  align-items: center;justify-content: center;
+}
+
+
+.form-style label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+.form-style1 label{
+  display: flex;
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.form-style input {
+    width: 100%;
+    padding: 7px;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+}
+.form-style1 input{
+  width: 150%;
+  padding: 7px;
+  border: 1px solid gray;
+  border-radius: 6px;
+  outline: none;
+}
+  input[type="button1"] {
+    width: 300px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #3b9b46;
+    color: white;
+    font-size: 18px;
+    
+  }
+  .password{
+    color: rgb(22, 83, 144);
+    margin-top: 20px;
+    margin-left: 100px;
+    font-size: bolder;
+    
+  }
+  .pass1{
+    display: flex;
+  }
+  .email{
+    line-height: 50px;
+    
+  }
+  
+  .line{
+    color: gray;
+    margin-top: 80px;
+  }
+  .down{
+    display: flex;
+    justify-content: start;
+    padding-right: 20px;
+    margin-top: 2px;
+}
+.right{
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+  
+  .copy{
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 590px;
+
+  }
+  .fa-regular{
+    color: #0a0a0a;
+    margin-top: 13px;
+    margin-left: 20px;
+  }
+  .fa-facebook{
+    color: #3b9b46;
+    margin-top: 13px;
+    margin-left: 10px;
+  }
+  .fa-twitter{
+    color: #3b9b46;margin-top: 13px;  margin-left: 10px;
+  }
+  .fa-instagram{
+    color: #3b9b46;margin-top: 13px;  margin-left: 10px;}
+
+   .signup-form{
+    margin: 20px;
+    height: 500px;
+    width: 900px;
+    
+    
+   }
+   .one{
+    display: flex;
+    justify-content: center;
+    line-height: 45px;
+   }
+.pass2{
+  margin-left: 180px;
+}
+.two{
+  display: flex;
+  justify-content: center;
+  line-height: 45px;
+ 
+ }
+.pass3{
+margin-left: 96px;
+}
+.three{
+  line-height: 45px;
+  margin-left: 130px;
+}
+.lower{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+.but11{
+  width: 150px;
+  height: 40px;
+  background-color: #3b9b46;
+  color: white;
+  margin-right: 30PX;
+  border-radius: 6PX;
+  
+  
+}
+.button2{
+  width: 90px;
+  height: 30px;
+  background-color: #3b9b46;
+  color: white;
+  margin-left: 30PX;
+  border-radius: 6PX;
+  margin-top: 6px;
+  border-color: #3b9b46;
+  border-width: 2px;
+  
+}
+.button3{
+  color: #3b9b46;
+  background-color: white;
+  border-radius: 6px;
+  margin-top: 15px;
+  border-color: gray;
+}
+.container-forms{
+  background-color: rgb(219, 216, 216);
+  height: auto;
+}
+.container-forms {
+  background-color: rgb(230, 227, 227); /* Set the background color to gray */
+  height: auto;
+ 
+}
+
+ 
